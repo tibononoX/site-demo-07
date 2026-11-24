@@ -1,0 +1,48 @@
+{
+  "lang": "fr",
+  "name": "Garage du Stand",
+  "initial": "S",
+  "trade": "garage",
+  "tradeLabel": "Garage toutes marques et agence Mitsubishi · Nyon",
+  "theme": { "mode": "light", "accent": "#c8102e", "display": "sans", "hero": "type" },
+  "hero": {
+    "eyebrow": "Hervé Wulliens · Route du Stand 41, Nyon",
+    "title": "Votre garage à Nyon,",
+    "titleEm": "toutes marques.",
+    "lead": "Agence Mitsubishi : vente de véhicules neufs et d'occasion, réparation et entretien de la marque Mitsubishi et de toutes les autres marques."
+  },
+  "rating": { "score": "5,0", "count": 27, "source": "Google" },
+  "intro": {
+    "title": "Un garage de proximité, sur la Côte",
+    "paragraphs": [
+      "Garage du Stand Sàrl est dirigé par Hervé Wulliens, à la route du Stand à Nyon. Agence Mitsubishi, le garage entretient et répare aussi les véhicules de toutes marques.",
+      "De la première prise de contact à la conclusion d'un leasing ou d'un achat, nous sommes là pour vous."
+    ],
+    "facts": ["Devis gratuit", "Voiture de prêt gratuite (hors carburant)", "Retour possible à la gare de Nyon ou en ville", "Samedi matin sur rendez-vous"]
+  },
+  "services": {
+    "title": "Nos prestations",
+    "items": [
+      { "title": "Entretien et réparation", "text": "Réparation et entretien de la marque Mitsubishi et de toutes les autres marques.", "bullets": ["Diagnostic électronique", "Service climatisation", "Auto-électricité, pose d'autoradios", "Suivi des travaux de carrosserie"] },
+      { "title": "Contrôles et expertise", "text": "Votre véhicule prêt pour le passage au service des automobiles.", "bullets": ["Préparation expertise", "Test antipollution", "Contrôle hiver et été"] },
+      { "title": "Pneus", "text": "Montage et gardiennage de vos pneus.", "bullets": ["Montage de pneus", "Gardiennage de pneus et roues"] },
+      { "title": "Vente, reprise et leasing", "text": "Véhicules neufs Mitsubishi et toutes marques, parc de voitures d'occasion.", "bullets": ["Achat et reprise de véhicule", "Leasing ou crédit personnalisé"] }
+    ]
+  },
+  "steps": {
+    "title": "Simple comme un coup de fil",
+    "items": [
+      { "title": "Appelez ou écrivez", "text": "Décrivez-nous votre besoin : entretien, réparation, pneus ou achat d'un véhicule." },
+      { "title": "Devis gratuit", "text": "Nous établissons un devis gratuit avant les travaux." },
+      { "title": "Voiture de prêt", "text": "Pendant les travaux, une voiture de prêt gratuite (hors carburant) est à votre disposition. Nous pouvons aussi vous ramener à la gare ou en ville de Nyon." }
+    ]
+  },
+  "contact": {
+    "title": "Prenez rendez-vous",
+    "lead": "Appelez le garage ou écrivez directement à Hervé Wulliens.",
+    "phones": [ { "label": "Garage", "display": "022 361 51 31", "tel": "+41223615131" } ],
+    "email": "herve@garage-du-stand.ch",
+    "address": ["Garage du Stand Sàrl", "Route du Stand 41", "1260 Nyon"],
+    "hours": ["Lu–Je : 7h30–12h00 / 13h30–17h45", "Ve : 7h30–12h00 / 13h30–17h15", "Samedi matin sur rendez-vous"]
+  }
+}
